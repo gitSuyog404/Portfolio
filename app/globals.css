@@ -65,3 +65,9 @@
 html {
   scroll-behavior: smooth;
 }
+
+@layer components {
+  .transformhov {
+    transform: all 0.5s;
+  }
+}

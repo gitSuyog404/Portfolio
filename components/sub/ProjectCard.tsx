@@ -28,3 +28,5 @@ const ProjectCard = ({ src, title, description }: Props) => {
 };
 
 export default ProjectCard;
+
+// CUSTOM
